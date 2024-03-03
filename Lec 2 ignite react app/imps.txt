@@ -1,0 +1,6 @@
+What is normal vs dev depencency(-D) in npm install?
+What is parcel pacakage and what is does?
+Tilde vs caret in npm JSON?
+Pacakage-lock.json vs package.json ?
+Node module AND Transitive dependencies?
+npm vs npx?
